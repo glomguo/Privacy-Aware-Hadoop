@@ -1,0 +1,23 @@
+* About
+
+This project contains:
+
++ Android App running Hapdoop based on WiFi Direct
++ Tutorial about how to use the App
++ Daemon from previous group
+
+* What are those folders
+
++ All files are Android Studio files for running Android App
+
+* Prerequisite
+
+** Environment
+
++ Android Studio 2.2.2
+
+** Configuration
+
+1. Put all files except README under the same folder
+
+2. Execute Android Studio and open the project with the created folder
